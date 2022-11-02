@@ -1,6 +1,8 @@
 # Kodluyoruz İlk Repo
 
-Bu repo [Kodluyoruz](https://app.patika.dev/feyzameyza) Başlangıç Seviye Java ile Backend Web Development  Eğitiminde oluşturduğum ilk repodur. 
+Bu repo [Kodluyoruz](https://app.patika.dev/feyzameyza) Başlangıç Seviye Java ile Backend Web Development  Eğitiminde oluşturduğum ilk repodur.
+
+## Proje İçeriği
 
 İçerisinde;
 - Bir adet README dosyası,
@@ -8,8 +10,10 @@ Bu repo [Kodluyoruz](https://app.patika.dev/feyzameyza) Başlangıç Seviye Java
 
 barındırıyor.
 
+*Repo oluştururken sağlanması gereken şartlara örnek olarak aşağıdaki görsel kullanılmıştır.*
+
 ---
 
-[Repo oluştururken sağlanması gereken şartlara örnek olarak aşağıdaki görsel kullanılmıştır.](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+![repo örnek](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ---
