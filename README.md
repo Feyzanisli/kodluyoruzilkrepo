@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://app.patika.dev/feyzameyza) Başlangıç Seviye Java
 
 ## Proje İçeriği
 
-İçerisinde;
+Bu proje içerisinde;
 - Bir adet README dosyası,
 - Bir adet index.html dosyası
 
