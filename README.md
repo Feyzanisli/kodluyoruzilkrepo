@@ -17,3 +17,5 @@ barındırıyor.
 ![repo örnek](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ---
+
+[*Kodluyoruz profil linkim*](https://app.patika.dev/feyzameyza)
