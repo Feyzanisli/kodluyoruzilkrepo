@@ -18,4 +18,4 @@ barındırıyor.
 
 ---
 
-[*Kodluyoruz profil linkim*](https://app.patika.dev/feyzameyza)
+[*Kodluyoruz profil linkim için tıklayınız.*](https://app.patika.dev/feyzameyza)
