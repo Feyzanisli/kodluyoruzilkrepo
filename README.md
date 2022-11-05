@@ -19,3 +19,5 @@ barındırıyor.
 ---
 
 [*Kodluyoruz profil linkim için tıklayınız.*](https://app.patika.dev/feyzameyza)
+
+klasör değiştirdikten sonra deneme
